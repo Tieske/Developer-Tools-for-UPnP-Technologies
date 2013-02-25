@@ -1,0 +1,10 @@
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\InstallerCustomActions.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\InstallerCustomActions.CA.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\InstallerCustomActions.pdb
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\Common.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\Common.pdb
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\obj\x86\Debug\Installer Custom Actions.csprojResolveAssemblyReference.cache
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\obj\x86\Debug\InstallerCustomActions.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\obj\x86\Debug\InstallerCustomActions.pdb

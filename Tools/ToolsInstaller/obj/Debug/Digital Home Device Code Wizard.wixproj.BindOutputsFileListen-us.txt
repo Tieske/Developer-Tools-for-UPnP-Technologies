@@ -1,0 +1,2 @@
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\bin\Debug\en-us\Digital Home Device Code Wizard.msi
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\bin\Debug\en-us\Digital Home Device Code Wizard.wixpdb

@@ -1,0 +1,8 @@
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\InstallerCustomActions.dll
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\InstallerCustomActions.CA.dll
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\InstallerCustomActions.pdb
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\obj\Debug\InstallerCustomActions.dll
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\obj\Debug\InstallerCustomActions.pdb
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\Installer Custom Actions\obj\Debug\Installer Custom Actions.csprojResolveAssemblyReference.cache

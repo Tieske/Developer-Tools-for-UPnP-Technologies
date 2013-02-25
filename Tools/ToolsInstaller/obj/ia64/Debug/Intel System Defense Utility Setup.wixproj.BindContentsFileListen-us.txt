@@ -1,0 +1,56 @@
+..\Intel System Defense Utility\Images\\Application-Icon1.ico
+..\..\CommonComponents\AutoUpdateTool\bin\Debug\AutoUpdateTool.exe
+..\..\CommonComponents\AutoUpdateTool\bin\Debug\AutoUpdateTool.exe.config
+..\..\CommonComponents\AutoUpdateTool\bin\Debug\AutoUpdateTool.pdb
+..\Release Additions\\blank.img
+..\Release Additions\\blank.iso
+..\Intel System Defense Utility\bin\Debug\de\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\es\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\fr\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\fr\ManageabilityControls.resources.dll
+..\Intel System Defense Utility\bin\Debug\fr\Manageability Stack.resources.dll
+..\Intel System Defense Utility\bin\Debug\fr\MeshCommon.resources.dll
+..\Intel System Defense Utility\bin\Debug\HeciWrapper32.dll
+..\Intel System Defense Utility\bin\Debug\HeciWrapper64.dll
+..\Intel System Defense Utility\bin\Debug\imrsdk_x64b.dll
+..\Intel System Defense Utility\bin\Debug\imrsdk_x64.dll
+..\Intel System Defense Utility\bin\Debug\imrsdk.dll
+..\Release Additions\\imrsdk.ini
+..\Help\\Intel® System Defense Utility.chm
+..\Intel System Defense Utility\bin\Debug\Intel System Defense Utility.exe
+..\Intel System Defense Utility\bin\Debug\Intel System Defense Utility.exe.config
+..\Intel System Defense Utility\bin\Debug\Intel System Defense Utility.pdb
+..\Intel System Defense Utility\bin\Debug\it\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\ja-JP\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\ja-JP\ManageabilityControls.resources.dll
+..\Intel System Defense Utility\bin\Debug\ja-JP\Manageability Stack.resources.dll
+..\Intel System Defense Utility\bin\Debug\ja-JP\MeshCommon.resources.dll
+..\Intel System Defense Utility\bin\Debug\ko\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\ko\ManageabilityControls.resources.dll
+..\Intel System Defense Utility\bin\Debug\ko\Manageability Stack.resources.dll
+..\Intel System Defense Utility\bin\Debug\ko\MeshCommon.resources.dll
+..\Release Additions\openssl\\libeay32.dll
+..\Intel System Defense Utility\bin\Debug\ManageabilityControls.dll
+..\Intel System Defense Utility\bin\Debug\ManageabilityControls.pdb
+..\Intel System Defense Utility\bin\Debug\Manageability Stack.dll
+..\Intel System Defense Utility\bin\Debug\Manageability Stack.pdb
+..\Intel System Defense Utility\bin\Debug\MeshCommon.dll
+..\Intel System Defense Utility\bin\Debug\MeshCommon.pdb
+..\Intel System Defense Utility\bin\Debug\MeshInterface.dll
+..\Intel System Defense Utility\bin\Debug\MeshInterface.pdb
+..\..\MeshManageability\Release\\MeshService.exe
+..\..\MeshManageability\Release\\MeshService.pdb
+..\Release Additions\openssl\\msvcr71d.dll
+..\Release Additions\openssl\\msvcr71.dll
+..\Release Additions\openssl\\openssl.exe
+..\Intel System Defense Utility\bin\Debug\pt\Intel System Defense Utility.resources.dll
+..\Release Additions\\Readme.txt
+..\Intel System Defense Utility\bin\Debug\ru\Intel System Defense Utility.resources.dll
+..\Release Additions\openssl\\ssleay32.dll
+..\Intel System Defense Utility\bin\Debug\StorageWrapper32.dll
+..\Intel System Defense Utility\bin\Debug\StorageWrapper64.dll
+..\Intel System Defense Utility Setup\UpdateInfo-ISDU.ini
+..\Intel System Defense Utility\bin\Debug\zh-CHS\Intel System Defense Utility.resources.dll
+..\Intel System Defense Utility\bin\Debug\zh-CHS\ManageabilityControls.resources.dll
+..\Intel System Defense Utility\bin\Debug\zh-CHS\Manageability Stack.resources.dll
+..\Intel System Defense Utility\bin\Debug\zh-CHS\MeshCommon.resources.dll

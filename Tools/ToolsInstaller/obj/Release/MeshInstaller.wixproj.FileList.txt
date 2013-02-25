@@ -1,0 +1,12 @@
+C:\Dev\SourceCode\Installers\WIX\MeshInstaller\MeshInstaller\MeshInstaller\bin\Release\en-us\MeshInstaller.msi
+C:\Dev\SourceCode\Installers\WIX\MeshInstaller\MeshInstaller\MeshInstaller\bin\Release\en-us\MeshInstaller.wixpdb
+obj\Release\Product.wixobj
+obj\Release\pthF36B9DECA690D881F9E1A4E3EAD87D1A\MyDatabaseParametersDlg.wixobj
+obj\Release\pthF36B9DECA690D881F9E1A4E3EAD87D1A\MyInstallDirDlg.wixobj
+obj\Release\pthF36B9DECA690D881F9E1A4E3EAD87D1A\MyFeaturesDlg.wixobj
+obj\Release\pthF36B9DECA690D881F9E1A4E3EAD87D1A\MyWebSiteParametersDlg.wixobj
+obj\Release\pthF36B9DECA690D881F9E1A4E3EAD87D1A\MyWelcomeDlg.wixobj
+obj\Release\pthF36B9DECA690D881F9E1A4E3EAD87D1A\MyWixUI_InstallDir.wixobj
+obj\Release\MeshInstaller.wixproj.BindContentsFileListen-us.txt
+obj\Release\MeshInstaller.wixproj.BindOutputsFileListen-us.txt
+obj\Release\MeshInstaller.wixproj.BindBuiltOutputsFileListen-us.txt

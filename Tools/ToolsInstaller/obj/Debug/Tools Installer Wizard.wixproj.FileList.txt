@@ -1,0 +1,27 @@
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\bin\Debug\en-us\Developer Tools for UPnP Technologies.msi
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\bin\Debug\en-us\Developer Tools for UPnP Technologies.wixpdb
+obj\Debug\Globals.wixobj
+obj\Debug\Product.wixobj
+obj\Debug\Tools Installer Wizard.wixproj.BindContentsFileListen-us.txt
+obj\Debug\Tools Installer Wizard.wixproj.BindOutputsFileListen-us.txt
+obj\Debug\Tools Installer Wizard.wixproj.BindBuiltOutputsFileListen-us.txt
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\bin\Debug\en-us\Developer Tools for UPnP Technologies.msi
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\bin\Debug\en-us\Developer Tools for UPnP Technologies.wixpdb
+obj\Debug\pth2FF1FCE27422D5C999C315D12A8D8F1A\DeveloperToolsforUPnPTechnologies.wixobj
+obj\Debug\pth2FF1FCE27422D5C999C315D12A8D8F1A\Shortcuts.wixobj
+obj\Debug\pth2FF1FCE27422D5C999C315D12A8D8F1A\ZipFile.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyCancelDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyConfirmUpgradeDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyExitDialog.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyFatalError.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyInstallDirDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyLicenseAgreementDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyMaintenanceTypeDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyMaintenanceWelcomeDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyPrepareDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyProgressDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyResumeDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyUserExit.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyVerifyReadyDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyWelcomeDlg.wixobj
+obj\Debug\pth1BF151EE61DC3D13B83F98122BA61FAC\MyWixUI_InstallDir.wixobj

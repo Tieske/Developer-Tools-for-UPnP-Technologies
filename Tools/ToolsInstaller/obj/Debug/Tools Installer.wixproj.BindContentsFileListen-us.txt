@@ -1,0 +1,51 @@
+..\MediaRenderer\bin\Debug\AxInterop.WMPLib.dll
+..\..\..\CommonComponents\AutoUpdateTool\bin\Debug\AutoUpdateTool.exe
+..\..\..\CommonComponents\AutoUpdateTool\bin\Debug\AutoUpdateTool.exe.config
+..\..\..\CommonComponents\AutoUpdateTool\bin\Debug\AutoUpdateTool.pdb
+..\MediaController\bin\Debug\AV Media Controller.exe
+..\MediaController\bin\Debug\AV Media Controller.pdb
+..\MediaRenderer\bin\Debug\Media Renderer.exe
+..\MediaRenderer\bin\Debug\Media Renderer.pdb
+..\MediaServer\UPnPMediaServerCore\bin\Debug\AVMediaServerCore.dll
+..\MediaServer\UPnPMediaServerCore\bin\Debug\AVMediaServerCore.pdb
+..\MediaServer\UPnPMediaServer\bin\Debug\AV Media Server.exe
+..\MediaServer\UPnPMediaServer\bin\Debug\AV Media Server.pdb
+..\MediaWizard\bin\Debug\AV Wizard.exe
+..\MediaWizard\bin\Debug\AV Wizard.pdb
+..\DeviceBuilder\bin\Debug\Device Builder.exe
+..\DeviceBuilder\bin\Debug\Device Builder.pdb
+..\DeviceBuilder\DeviceBuilderFiles.exe
+..\DeviceRelay\bin\Debug\Device Relay.exe
+..\DeviceRelay\bin\Debug\Device Relay.pdb
+..\DeviceSniffer\bin\Debug\Device Sniffer.exe
+..\DeviceSniffer\bin\Debug\Device Sniffer.pdb
+..\DeviceSpy\bin\Debug\Device Spy.exe
+..\DeviceSpy\bin\Debug\Device Spy.pdb
+..\DeviceValidator\bin\Debug\Device Validator.exe
+..\DeviceValidator\bin\Debug\Device Validator.pdb
+..\..\Global\ValidatorInterfaces\bin\Debug\ValidatorInterfaces.dll
+..\..\Global\ValidatorInterfaces\bin\Debug\ValidatorInterfaces.pdb
+..\..\..\CommonComponents\AutoUpdateTool\bin\Debug\Interop.WindowsInstaller.dll
+..\MediaRenderer\bin\Debug\Interop.WMPLib.dll
+..\..\Global\MetaData\bin\Debug\MetaData.dll
+..\..\Global\MetaData\bin\Debug\MetaData.pdb
+..\NetworkLight\bin\Debug\Network Light.exe
+..\NetworkLight\bin\Debug\Network Light.pdb
+..\ServiceAuthor\bin\Debug\Service Author.exe
+..\ServiceAuthor\bin\Debug\Service Author.pdb
+UpdateInfo-CompleteDevTools.ini
+UpdateInfo-CompleteDevTools.ini
+..\..\Global\UPNPAV_DeviceRendererStack\bin\Debug\UPNPAV_DeviceRendererStack.dll
+..\..\Global\UPNPAV_DeviceRendererStack\bin\Debug\UPNPAV_DeviceRendererStack.pdb
+..\..\Global\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.dll
+..\..\Global\UPNPAV_RendererStack\bin\Debug\UPNPAV_RendererStack.pdb
+..\..\Global\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.dll
+..\..\Global\UPNPAVCDSML\bin\Debug\UPNPAVCDSML.pdb
+..\..\Global\UPNP_AV\bin\Debug\UPNP_AV.dll
+..\..\Global\UPNPAVMSCP\bin\Debug\UPNPAVMSCP.dll
+..\..\Global\UPNPAVMSCP\bin\Debug\UPNPAVMSCP.pdb
+..\..\Global\UPNPAVMSDV\bin\Debug\UPNPAVMSDV.dll
+..\..\Global\UPNPAVMSDV\bin\Debug\UPNPAVMSDV.pdb
+..\..\Global\UPNP_AV\bin\Debug\UPNP_AV.pdb
+..\..\Global\UPnP\bin\Debug\UPnP.dll
+..\..\Global\UPnP\bin\Debug\UPnP.pdb

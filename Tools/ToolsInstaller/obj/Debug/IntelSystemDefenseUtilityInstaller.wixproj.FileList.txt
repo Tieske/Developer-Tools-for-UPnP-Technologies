@@ -1,0 +1,39 @@
+obj\Debug\Globals.wixobj
+obj\Debug\Product.wixobj
+C:\Dev\SourceCode\Installers\WIX\IntelSystemDefenseUtilityInstaller\IntelSystemDefenseUtilityInstaller\IntelSystemDefenseUtilityInstaller\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Dev\SourceCode\Installers\WIX\IntelSystemDefenseUtilityInstaller\IntelSystemDefenseUtilityInstaller\IntelSystemDefenseUtilityInstaller\bin\Debug\en-us\Intel System Defense Utility.wixpdb
+obj\Debug\IntelSystemDefenseUtilityInstaller.wixproj.BindContentsFileListen-us.txt
+obj\Debug\IntelSystemDefenseUtilityInstaller.wixproj.BindOutputsFileListen-us.txt
+obj\Debug\IntelSystemDefenseUtilityInstaller.wixproj.BindBuiltOutputsFileListen-us.txt
+C:\Dev\SourceCode\Intel System Defense Utility\Intel System Defense Utility Installer\Intel System Defense Utility Installer\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Dev\SourceCode\Intel System Defense Utility\Intel System Defense Utility Installer\Intel System Defense Utility Installer\bin\Debug\en-us\Intel System Defense Utility.wixpdb
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup2\Intel System Defense Utility Installer\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup2\Intel System Defense Utility Installer\bin\Debug\en-us\Intel System Defense Utility.wixpdb
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\zh.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\ru.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\pt.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\ko.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\jp.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\it.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\fr.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\es.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\de.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\openssl.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\Intel System Defense Utility.wixobj
+obj\Debug\pthE72D3526F706ABD21182CA41E6E9EB2C\Shortcuts.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyCancelDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyExitDialog.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyFatalError.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyInstallDirDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyLicenseAgreementDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyMaintenanceTypeDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyMaintenanceWelcomeDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyPrepareDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyProgressDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyResumeDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyUserExit.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyVerifyReadyDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyWelcomeDlg.wixobj
+obj\Debug\pthE692D7D206F04296B97E5DCF6A288F82\MyWixUI_InstallDir.wixobj
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup\bin\Debug\en-us\Intel System Defense Utility.wixpdb

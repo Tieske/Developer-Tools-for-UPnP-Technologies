@@ -1,0 +1,2 @@
+C:\Dev\SourceCode\Installers\WIX\Intel System Defense Utility\Intel System Defense Utility\Intel System Defense Utility\bin\Debug\en-us\MeshInstaller.msi
+C:\Dev\SourceCode\Installers\WIX\Intel System Defense Utility\Intel System Defense Utility\Intel System Defense Utility\bin\Debug\en-us\MeshInstaller.wixpdb

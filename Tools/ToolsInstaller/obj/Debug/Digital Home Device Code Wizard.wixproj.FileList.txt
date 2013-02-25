@@ -1,0 +1,26 @@
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\bin\Debug\en-us\Digital Home Device Code Wizard.msi
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\bin\Debug\en-us\Digital Home Device Code Wizard.wixpdb
+obj\Debug\Globals.wixobj
+obj\Debug\pthE99319F0C4E0739FA5127F69C541152B\ApplicationBin.wixobj
+obj\Debug\pthE99319F0C4E0739FA5127F69C541152B\Plugins.wixobj
+obj\Debug\pthE99319F0C4E0739FA5127F69C541152B\Non_DLNA_Plugins.wixobj
+obj\Debug\pthE99319F0C4E0739FA5127F69C541152B\Shortcuts.wixobj
+obj\Debug\pthE99319F0C4E0739FA5127F69C541152B\ZipFile.wixobj
+obj\Debug\Product.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyCancelDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyExitDialog.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyFatalError.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyInstallDirDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyLicenseAgreementDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyMaintenanceTypeDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyMaintenanceWelcomeDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyPrepareDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyProgressDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyResumeDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyUserExit.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyVerifyReadyDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyWelcomeDlg.wixobj
+obj\Debug\pth08286C980F56CBFE8F461295D9A82498\MyWixUI_InstallDir.wixobj
+obj\Debug\Digital Home Device Code Wizard.wixproj.BindContentsFileListen-us.txt
+obj\Debug\Digital Home Device Code Wizard.wixproj.BindOutputsFileListen-us.txt
+obj\Debug\Digital Home Device Code Wizard.wixproj.BindBuiltOutputsFileListen-us.txt

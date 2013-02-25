@@ -1,0 +1,2 @@
+C:\Dev\SourceCode\Installers\WIX\MeshInstaller\MeshInstaller\MeshInstaller\bin\Release\en-us\MeshInstaller.msi
+C:\Dev\SourceCode\Installers\WIX\MeshInstaller\MeshInstaller\MeshInstaller\bin\Release\en-us\MeshInstaller.wixpdb

@@ -1,0 +1,18 @@
+obj\ia64\Debug\Globals.wixobj
+obj\ia64\Debug\pthE99319F0C4E0739FA5127F69C541152B\Manageability Resource Translator Tool.wixobj
+obj\ia64\Debug\pthE99319F0C4E0739FA5127F69C541152B\Shortcuts.wixobj
+obj\ia64\Debug\Product.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyCancelDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyExitDialog.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyFatalError.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyInstallDirDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyLicenseAgreementDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyMaintenanceTypeDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyMaintenanceWelcomeDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyPrepareDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyProgressDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyResumeDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyUserExit.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyVerifyReadyDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyWelcomeDlg.wixobj
+obj\ia64\Debug\pth08286C980F56CBFE8F461295D9A82498\MyWixUI_InstallDir.wixobj

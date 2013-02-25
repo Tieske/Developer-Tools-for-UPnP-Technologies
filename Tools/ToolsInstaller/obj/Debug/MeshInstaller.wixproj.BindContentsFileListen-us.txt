@@ -1,0 +1,63 @@
+C:\Dev\SourceCode\CommonComponents\Manageability Stack\bin\Debug\Manageability Stack.dll
+C:\Dev\SourceCode\CommonComponents\Manageability Stack\bin\Debug\Manageability Stack.pdb
+C:\Dev\SourceCode\CommonComponents\MeshInterface\bin\Debug\MeshInterface.dll
+C:\Dev\SourceCode\CommonComponents\MeshInterface\bin\Debug\MeshInterface.pdb
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\bin\Debug\settings.txt
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\bin\Debug\tls.p12
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\32 bit\\aspnet_regiis.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\32 bit\\installIIS7.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\32 bit\\InstallMSMQ.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\32 bit\\InstallNetsh.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\\aspnet_regiis.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\\installIIS7.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\\InstallNetsh.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\\UninstallNetsh.bat
+C:\Dev\SourceCode\Common\Common\bin\Debug\Common.dll
+C:\Dev\SourceCode\Common\Common\bin\Debug\Common.pdb
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\images\\Installer.bmp
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\images\\license.rtf
+C:\Dev\SourceCode\CommonComponents\Manageability Controls\bin\Debug\ManageabilityControls.dll
+C:\Dev\SourceCode\CommonComponents\Manageability Controls\bin\Debug\ManageabilityControls.pdb
+C:\Dev\SourceCode\Agents\\MeshAgent-129.12
+C:\Dev\SourceCode\Agents\\MeshAgent-129.9
+C:\Dev\SourceCode\Agents\\MeshAgent-153.10
+C:\Dev\SourceCode\Agents\\MeshAgent-154.11
+C:\Dev\SourceCode\Agents\\MeshAgent-154.13
+C:\Dev\SourceCode\Agents\\MeshAgent-154.6
+C:\Dev\SourceCode\Agents\\MeshAgent-156.1.exe
+C:\Dev\SourceCode\Agents\\MeshAgent-156.3.exe
+C:\Dev\SourceCode\Agents\\MeshAgent-156.5
+C:\Dev\SourceCode\Agents\\MeshAgent-156.7
+C:\Dev\SourceCode\Agents\\MeshAgent-156.8
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\bin\Debug\MeshAjaxServer.exe
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\bin\Debug\MeshAjaxServer.pdb
+C:\Dev\SourceCode\MeshServers\MeshAjaxService\bin\Debug\MeshAjaxService.exe
+C:\Dev\SourceCode\MeshServers\MeshAjaxService\bin\Debug\MeshAjaxService.pdb
+C:\Dev\SourceCode\CommonComponents\MeshCommon\bin\Debug\MeshCommon.dll
+C:\Dev\SourceCode\CommonComponents\MeshCommon\bin\Debug\MeshCommon.pdb
+C:\Dev\SourceCode\MeshServers\MeshCookieViewer\bin\Debug\Mesh Cookie Viewer.exe
+C:\Dev\SourceCode\MeshServers\MeshCookieViewer\bin\Debug\Mesh Cookie Viewer.pdb
+C:\Dev\SourceCode\Database\MeshCentralDatabase\MeshCentralDatabase\Scripts\\MeshDatabaseCreation.sql
+C:\Dev\SourceCode\MeshServers\MeshSettingsEditor\bin\Debug\MeshSettingsEditor.exe
+C:\Dev\SourceCode\MeshServers\MeshSettingsEditor\bin\Debug\MeshSettingsEditor.pdb
+C:\Dev\SourceCode\MeshServers\MeshSwarmServer\bin\Debug\MeshSwarmServer.exe
+C:\Dev\SourceCode\MeshServers\MeshSwarmServer\bin\Debug\MeshSwarmServer.pdb
+C:\Dev\SourceCode\MeshServers\MeshSwarmService\bin\Debug\MeshSwarmService.exe
+C:\Dev\SourceCode\MeshServers\MeshSwarmService\bin\Debug\MeshSwarmService.pdb
+C:\Dev\SourceCode\MeshWebFiles.exe
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\web\\rlogin-basic.html
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\web\\rlogin.html
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\web\\ruploadcompleted.html
+C:\Dev\SourceCode\MeshServers\MeshAjaxServer\web\\ruploadfailed.html
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\Server 2008\\InstallMSMQ.bat
+C:\Dev\SourceCode\CommonComponents\Manageability Stack\bin\Debug\Manageability Stack.dll
+C:\Dev\SourceCode\CommonComponents\Manageability Stack\bin\Debug\Manageability Stack.pdb
+C:\Dev\SourceCode\CommonComponents\MeshInterface\bin\Debug\MeshInterface.dll
+C:\Dev\SourceCode\CommonComponents\MeshInterface\bin\Debug\MeshInterface.pdb
+C:\Dev\SourceCode\MeshServers\MeshSwarmServer\bin\Debug\settings.txt
+C:\Dev\SourceCode\MeshServers\MeshSwarmServer\bin\Debug\tls.p12
+C:\Dev\SourceCode\CommonComponents\MeshInterface\bin\Debug\MeshInterface.dll
+C:\Dev\SourceCode\CommonComponents\MeshInterface\bin\Debug\MeshInterface.pdb
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\Windows 7\\InstallMSMQ.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\Windows 8\\installIIS7.bat
+C:\Dev\SourceCode\Installers\MeshInstaller\MeshInstaller\Binaries\64 bit\Windows 8\\InstallMSMQ.bat

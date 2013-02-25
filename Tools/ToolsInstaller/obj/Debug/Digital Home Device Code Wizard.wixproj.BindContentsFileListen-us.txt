@@ -1,0 +1,14 @@
+..\DLNABuilder\Plugins\BuilderPlugin\bin\Debug\BuilderPlugin.dll
+..\Tools\DeviceBuilder\bin\Debug\Device Builder.exe
+..\DLNABuilder\Application\bin\Debug\DLNABuilder.exe
+..\DLNABuilder\DLNABuilderFiles.exe
+..\DLNABuilder\Plugins\DMC\bin\Debug\DMC.dll
+..\DLNABuilder\Plugins\DMP\bin\Debug\DMP.dll
+..\DLNABuilder\Plugins\DMR\bin\Debug\DMR.dll
+..\DLNABuilder\Plugins\DMS\bin\Debug\DMS.dll
+..\DLNABuilder\Plugins\BuilderPlugin\bin\Debug\BuilderPlugin.dll
+..\DLNABuilder\Plugins\BuilderPlugin\bin\Debug\BuilderPlugin.dll
+..\DLNABuilder\Plugins\PowerManagement\bin\Debug\PowerManagement.dll
+..\DLNABuilder\Plugins\RUIClient\bin\Debug\RUIClient.dll
+..\Tools\ServiceAuthor\bin\Debug\Service Author.exe
+..\Global\UPnP\bin\Debug\UPnP.dll

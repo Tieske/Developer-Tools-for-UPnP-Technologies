@@ -1,0 +1,2 @@
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\bin\Debug\en-us\Developer Tools for UPnP Technologies.msi
+C:\Users\Public\Downloads\DeveloperToolsForUPnP\Tools\ToolsInstaller\bin\Debug\en-us\Developer Tools for UPnP Technologies.wixpdb

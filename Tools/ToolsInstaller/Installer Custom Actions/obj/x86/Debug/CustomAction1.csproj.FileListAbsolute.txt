@@ -1,0 +1,15 @@
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\bin\Debug\CustomAction1.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\bin\Debug\CustomAction1.CA.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\bin\Debug\CustomAction1.pdb
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\obj\x86\Debug\CustomAction1.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\CustomAction1\obj\x86\Debug\CustomAction1.pdb
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\bin\Debug\CustomAction1.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\bin\Debug\CustomAction1.CA.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\bin\Debug\CustomAction1.pdb
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\obj\x86\Debug\CustomAction1.csprojResolveAssemblyReference.cache
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\obj\x86\Debug\CustomAction1.dll
+C:\Dev\SourceCode\DeveloperToolsForUPnP\Tools\ToolsInstaller\CustomAction1\obj\x86\Debug\CustomAction1.pdb

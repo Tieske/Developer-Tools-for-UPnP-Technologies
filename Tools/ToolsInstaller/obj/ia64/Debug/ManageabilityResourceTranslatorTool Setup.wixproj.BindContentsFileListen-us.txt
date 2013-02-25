@@ -1,0 +1,5 @@
+Images\Installer.bmp
+..\License.rtf
+..\Translator\bin\Debug\Manageability Resource Translator Tool.exe
+..\Translator\bin\Debug\Manageability Resource Translator Tool.exe.config
+..\Translator\tmx14.dtd

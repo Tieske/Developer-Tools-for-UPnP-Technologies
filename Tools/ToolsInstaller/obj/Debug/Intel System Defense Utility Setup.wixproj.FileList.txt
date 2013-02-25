@@ -1,0 +1,35 @@
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup\bin\Debug\en-us\Intel System Defense Utility.wixpdb
+obj\Debug\Globals.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\zh.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\ru.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\pt.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\ko.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\jp.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\it.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\fr.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\es.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\de.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\openssl.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\Intel System Defense Utility.wixobj
+obj\Debug\pthCF6E5DAB2B70FD488A72DB65BF608688\Shortcuts.wixobj
+obj\Debug\Product.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyCancelDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyExitDialog.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyFatalError.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyInstallDirDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyLicenseAgreementDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyMaintenanceTypeDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyMaintenanceWelcomeDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyPrepareDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyProgressDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyResumeDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyUserExit.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyVerifyReadyDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyWelcomeDlg.wixobj
+obj\Debug\pth2CDF9ACC2E634A704CCD669369DFBB15\MyWixUI_InstallDir.wixobj
+C:\Dev\SourceCode\Intel System Defense Utility\Intel System Defense Utility Setup\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Dev\SourceCode\Intel System Defense Utility\Intel System Defense Utility Setup\bin\Debug\en-us\Intel System Defense Utility.wixpdb
+obj\Debug\Intel System Defense Utility Setup.wixproj.BindContentsFileListen-us.txt
+obj\Debug\Intel System Defense Utility Setup.wixproj.BindOutputsFileListen-us.txt
+obj\Debug\Intel System Defense Utility Setup.wixproj.BindBuiltOutputsFileListen-us.txt

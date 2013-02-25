@@ -1,0 +1,2 @@
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup\bin\ia64\Debug\en-us\Intel System Defense Utility.msi
+C:\Users\Public\Downloads\Intel System Defense Utility\Intel System Defense Utility Setup\bin\ia64\Debug\en-us\Intel System Defense Utility.wixpdb

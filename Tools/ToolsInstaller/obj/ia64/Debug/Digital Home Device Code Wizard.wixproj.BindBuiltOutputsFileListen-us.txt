@@ -1,0 +1,2 @@
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\bin\ia64\Debug\en-us\Intel System Defense Utility.msi
+C:\Dev\SourceCode\DeveloperToolsForUPnP\DeveloperToolsForUPnPInstaller\bin\ia64\Debug\en-us\Intel System Defense Utility.wixpdb

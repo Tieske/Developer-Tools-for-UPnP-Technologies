@@ -1,0 +1,2 @@
+C:\Dev\SourceCode\ManageabilityResourceTranslator\ManageabilityResourceTranslatorTool Installer\bin\Debug\en-us\Intel System Defense Utility.msi
+C:\Dev\SourceCode\ManageabilityResourceTranslator\ManageabilityResourceTranslatorTool Installer\bin\Debug\en-us\Intel System Defense Utility.wixpdb

@@ -19,7 +19,7 @@ limitations under the License.
 #include <sys/uio.h>
 #include <sys/mount.h>
 #include <pthread.h>
-#include <CoreServices/CoreServices.h>
+//#include <CoreServices/CoreServices.h>
 #else 
 #if defined(_POSIX)
 #include <sys/statfs.h>
